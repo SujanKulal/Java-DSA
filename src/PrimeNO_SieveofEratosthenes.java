@@ -17,8 +17,9 @@ public class PrimeNO_SieveofEratosthenes {
         }
     }
     */
-    //Best Approach O(rt.n(log(n)))
 
+
+    //Best Approach O(rt.n(log(log(n))))
     static void sievePrime(int n){
         boolean[] prime = new boolean[n+1];
         for(int i = 2; i*i<=n;i++){
