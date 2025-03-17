@@ -1,3 +1,5 @@
+package Maths;
+
 import java.util.Scanner;
 // Brute force O(a*b - min(a,b))
 

@@ -1,3 +1,5 @@
+package Maths;
+
 import java.util.Scanner;
  public class HcfGcd {
     //Brute Force O(min(a,b));
