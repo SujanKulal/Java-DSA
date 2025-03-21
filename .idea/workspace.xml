@@ -43,49 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Bi2De_De2Bi.executor": "Run",
-    "Application.CountDigits.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FirstN.executor": "Run",
-    "Application.HcfGcd.executor": "Run",
-    "Application.Lcm.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PrimeFactors.executor": "Run",
-    "Application.PrimeNO_SieveofEratosthenes.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.SumN.executor": "Run",
-    "Application.SumOfAllElemnts.executor": "Run",
-    "Application.SumofDigits.executor": "Run",
-    "Application.TrailingZeros.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sujan/IdeaProjects/Java DSA",
-    "onboarding.tips.debug.path": "C:/Users/sujan/IdeaProjects/Java DSA/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bi2De_De2Bi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HcfGcd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lcm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNO_SieveofEratosthenes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfAllElemnts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumofDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujan/IdeaProjects/Java DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sujan/IdeaProjects/Java DSA/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Java DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Java DSA" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
