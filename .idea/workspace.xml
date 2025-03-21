@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a449298-9051-4011-a8e8-952e14db49b8" name="Changes" comment="Commit" />
+    <list default="true" id="4a449298-9051-4011-a8e8-952e14db49b8" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java DSA.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,36 +46,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Bi2De_De2Bi.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HcfGcd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lcm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeFactors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNO_SieveofEratosthenes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumN.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfAllElemnts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumofDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrailingZeros.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sujan/IdeaProjects/Java DSA&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sujan/IdeaProjects/Java DSA/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bi2De_De2Bi.executor": "Run",
+    "Application.CountDigits.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.FirstN.executor": "Run",
+    "Application.HcfGcd.executor": "Run",
+    "Application.JosephusProblem.executor": "Run",
+    "Application.Lcm.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeFactors.executor": "Run",
+    "Application.PrimeNO_SieveofEratosthenes.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SumN.executor": "Run",
+    "Application.SumOfAllElemnts.executor": "Run",
+    "Application.SumofDigits.executor": "Run",
+    "Application.TrailingZeros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sujan/IdeaProjects/Java DSA",
+    "onboarding.tips.debug.path": "C:/Users/sujan/IdeaProjects/Java DSA/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -218,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742462124787</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1742577911373</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742577911373</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1742578129915</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1742578129915</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
