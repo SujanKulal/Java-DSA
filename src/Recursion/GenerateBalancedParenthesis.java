@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class BalancedParenthesis {
+public class GenerateBalancedParenthesis {
     static void balPar(char[] ar, int i, int n, int o, int c){
         if(i==ar.length){
             System.out.println(ar);
