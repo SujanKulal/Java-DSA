@@ -1,11 +1,14 @@
 package Recursion;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SubsequenceOfGivenString {
+    static ArrayList<String> al = new ArrayList<>();
+
     static void gss(String s, String ans){
         if(s.length() == 0){
-            System.out.println(ans);
+            al.add(ans);
             return;
         }
         //pick
@@ -18,5 +21,6 @@ public class SubsequenceOfGivenString {
         String s = sc.next();
 
         gss(s,"");
+        System.out.println(al);
     }
 }
