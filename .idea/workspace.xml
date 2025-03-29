@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a449298-9051-4011-a8e8-952e14db49b8" name="Changes" comment="Commit" />
+    <list default="true" id="4a449298-9051-4011-a8e8-952e14db49b8" name="Changes" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,9 @@
     "Application.JosephusProblem.executor": "Run",
     "Application.Lcm.executor": "Run",
     "Application.LetterCombinationOfPhoneLetters.executor": "Run",
+    "Application.LuckyNumber.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PowerOfN.executor": "Run",
     "Application.PrimeFactors.executor": "Run",
     "Application.PrimeNO_SieveofEratosthenes.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
@@ -69,6 +73,7 @@
     "Application.SumN.executor": "Run",
     "Application.SumOfAllElemnts.executor": "Run",
     "Application.SumofDigits.executor": "Run",
+    "Application.TowerOfHanoi.executor": "Run",
     "Application.TrailingZeros.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -291,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743264650469</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1743268822000</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1743268822000</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
