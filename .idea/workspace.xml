@@ -65,6 +65,7 @@
     "Application.ReverseString.executor": "Run",
     "Application.RopeCuttingProblem.executor": "Run",
     "Application.SubsequenceOfGivenString.executor": "Run",
+    "Application.SubsetSumCount.executor": "Run",
     "Application.SumN.executor": "Run",
     "Application.SumOfAllElemnts.executor": "Run",
     "Application.SumofDigits.executor": "Run",
