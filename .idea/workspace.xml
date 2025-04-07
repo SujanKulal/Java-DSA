@@ -87,7 +87,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sujan/IdeaProjects/Java DSA",
+    "last_opened_file_path": "C:/Users/sujan/RestaurantBilling",
     "onboarding.tips.debug.path": "C:/Users/sujan/IdeaProjects/Java DSA/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -352,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743576355930</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1743674471642</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1743674471642</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
