@@ -10,7 +10,7 @@ public class MedianMergeSortedArray {
             if(a1[i] < a2[j]){
                 res[k] =a1[i];
                 i++;
-                k++;
+                 k++;
             }else {
                 res[k] =a2[j];
                 j++;
