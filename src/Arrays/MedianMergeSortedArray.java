@@ -1,6 +1,6 @@
 package Arrays;
 
-//O(m+n)
+// O(m+n)
 public class MedianMergeSortedArray {
     static float findMedian(int[] a1, int[] a2){
         int i=0,j=0,k=0;
